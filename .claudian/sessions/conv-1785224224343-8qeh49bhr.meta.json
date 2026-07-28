@@ -4,8 +4,8 @@
   "title": "Resume previous work",
   "titleGenerationStatus": "success",
   "createdAt": 1785224224343,
-  "updatedAt": 1785253275899,
-  "lastResponseAt": 1785253275899,
+  "updatedAt": 1785255200886,
+  "lastResponseAt": 1785255200886,
   "sessionId": "e89f0886-d627-4dfb-8306-8e695d0d14c1",
   "selectedModel": "sonnet",
   "providerState": {
@@ -15,11 +15,11 @@
   "usage": {
     "model": "sonnet",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 738,
-    "cacheReadInputTokens": 144134,
+    "cacheCreationInputTokens": 641,
+    "cacheReadInputTokens": 166978,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 144874,
-    "percentage": 14
+    "contextTokens": 167621,
+    "percentage": 17
   }
 }
