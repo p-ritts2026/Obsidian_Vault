@@ -1,0 +1,25 @@
+{
+  "id": "conv-1785179748383-3o9zilgdr",
+  "providerId": "claude",
+  "title": "Resume previous work",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785179748386,
+  "updatedAt": 1785180090577,
+  "lastResponseAt": 1785179822337,
+  "sessionId": "49c332a0-d80c-49cf-aa32-941cd6ba7263",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "49c332a0-d80c-49cf-aa32-941cd6ba7263"
+  },
+  "currentNote": "reference/卒業研究/2026-07-17_Leap Motion統合のフレームレート最適化.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1254,
+    "cacheReadInputTokens": 59968,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 61224,
+    "percentage": 6
+  }
+}

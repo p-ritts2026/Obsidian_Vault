@@ -1,0 +1,20 @@
+{
+  "tabManagerState": {
+    "openTabs": [
+      {
+        "tabId": "tab-1785045399664-zktini5",
+        "conversationId": "conv-1785045539354-1ghp6uq48"
+      },
+      {
+        "tabId": "tab-1785177873180-8nxynuc",
+        "conversationId": "conv-1785180099297-9hp8pjidp"
+      },
+      {
+        "draftModel": "sonnet",
+        "tabId": "tab-1785179945965-v4p7goa",
+        "conversationId": "conv-1785224224343-8qeh49bhr"
+      }
+    ],
+    "activeTabId": "tab-1785179945965-v4p7goa"
+  }
+}

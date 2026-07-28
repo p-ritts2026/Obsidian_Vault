@@ -1,0 +1,28 @@
+{
+  "id": "conv-1785045539354-1ghp6uq48",
+  "providerId": "claude",
+  "title": "List Vault contents",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785045539355,
+  "updatedAt": 1785146482767,
+  "lastResponseAt": 1785146482767,
+  "sessionId": "6fe86faa-b2cc-4539-a145-38399203a108",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "previousProviderSessionIds": [
+      "d218ad51-8e75-4f7b-8f6b-b69d05bc1600"
+    ],
+    "providerSessionId": "6fe86faa-b2cc-4539-a145-38399203a108"
+  },
+  "currentNote": "ようこそ.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 279,
+    "cacheReadInputTokens": 137891,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 138172,
+    "percentage": 14
+  }
+}

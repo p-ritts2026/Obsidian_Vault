@@ -1,0 +1,25 @@
+{
+  "id": "conv-1785180099297-9hp8pjidp",
+  "providerId": "claude",
+  "title": "Resume previous work",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785180099298,
+  "updatedAt": 1785186627059,
+  "lastResponseAt": 1785186627059,
+  "sessionId": "74cc41e4-a0c3-4816-bf2d-8003f2792f03",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "74cc41e4-a0c3-4816-bf2d-8003f2792f03"
+  },
+  "currentNote": "reference/大学院入試/2026-07-24_千葉大学大学院デザインコース入試対策資料の作成.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 3295,
+    "cacheReadInputTokens": 344067,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 347364,
+    "percentage": 35
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "main": {
+    "id": "4eee7f0ed4c54ab9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e9c4ab96a0d8b08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "880f3f0179b80b9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reference/卒業研究/2026-07-17_Leap Motion統合のフレームレート最適化.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-17_Leap Motion統合のフレームレート最適化"
+            }
+          },
+          {
+            "id": "81ab0bee47dc43cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reference/サークル活動/2026-06-25_動画編集マニュアルの構成と進め方.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-25_動画編集マニュアルの構成と進め方"
+            }
+          },
+          {
+            "id": "b5b9ec41157b0a8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "draft/サークル活動/2026-07-28_データ管理システム設計ドラフト.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-28_データ管理システム設計ドラフト"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d4e0ac3c830e662",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd7f2d5a5de1e7ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8bb46ec4b09ef56",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "06b8278ee86b6398",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "a774c1a094888ec7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221.5
+  },
+  "right": {
+    "id": "96940c88541f92e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "135e38809ef1c2ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "555a5b7881096a2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ようこそ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "ようこそへのバックリンク"
+            }
+          },
+          {
+            "id": "668118b554194def",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ようこそ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "ようこそからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "88e7cc82422a9145",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "fd8d41d41cd80a5a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "3b561ae90b9cf283",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "テスト.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "テストのアウトライン"
+            }
+          },
+          {
+            "id": "fe2bdce614aaeac0",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "49a2fdf9e6b409eb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 653.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false,
+      "realclaudian:Open Claudian": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b5b9ec41157b0a8f",
+  "lastOpenFiles": [
+    "2026-07-28.md",
+    "draft/サークル活動/2026-07-28_データ管理システム設計ドラフト.md",
+    "無題のファイル.md",
+    "無題のファイル.canvas",
+    "reference/サークル活動/2026-07-28_サークル データ管理システム構築.md",
+    "reference/大学院入試/2026-07-24_千葉大学大学院デザインコース入試対策資料の作成.md",
+    "reference/サークル活動/2026-06-25_動画編集マニュアルの構成と進め方.md",
+    "reference/大学院入試/資料/単語.pdf",
+    "reference/サークル活動/2026-07-11_動画編集マニュアルへの日付と注記の追加.md",
+    "reference/サークル活動/CLAUDE.md",
+    "reference/卒業研究/CLAUDE.md",
+    "draft/大学院入試/2026-07-28_短答練習（年度B優先）.md",
+    "draft/サークル活動",
+    "reference/サークル活動/2026-06-29_お笑いサークル向けネタ見せフォーム作成アプリ.md",
+    "reference/大学院入試/2026-07-28_千葉大学デザインコース過去問追加分（①③⑦重点）.md",
+    "reference/大学院入試/2026-07-28_千葉大学デザインコース過去問追加分（①③⑦重点）.md.tmp.3392.9d6d465d8eda",
+    "reference/大学院入試/2026-07-28_公式解答例と出題趣旨の確認（年度確定版）.md",
+    "CLAUDE.md",
+    "reference/大学院入試/資料/2023年4月2022年10月入学_選択科目.pdf",
+    "reference/大学院入試/資料/36D92DC0-FF8E-405A-80B7-BEB5D61CDDBD.jpeg",
+    "reference/大学院入試/資料/341AD8A3-756B-4FBB-AFC1-293448D1D9C0.jpeg",
+    "reference/大学院入試/資料/01AFFB6D-4363-4DF7-B2DC-DEAB9FD2051D.jpeg",
+    "reference/大学院入試/資料/AC5FF9F1-2A78-4CE4-9059-4F53E308ED59.jpeg",
+    "reference/大学院入試/資料/DBC291EB-D497-4BFC-A544-A595C4D4412E.jpeg",
+    "reference/大学院入試/資料/450703F4-1216-4C3D-BE2F-FC495C179BDE.jpeg",
+    "reference/大学院入試/資料/24239378-2D7A-42F8-A14A-22A41CA3048B.jpeg",
+    "reference/大学院入試/資料/05CC9375-BAD4-4DF4-962D-F239D287FEE8.jpeg",
+    "reference/大学院入試/資料/CA5ECBBA-4729-49C9-BE3A-ADEDA6DAB9BA.jpeg",
+    "reference/大学院入試/資料/4F5D5B22-352E-4230-AD94-1C59D40615D5.jpeg",
+    "reference/大学院入試/資料/202508_03_M1_des_sp.pdf",
+    "reference/大学院入試/資料/202508_02_M1_des_sp.pdf",
+    "reference/大学院入試/資料/202508_01_M1_des_sp.pdf",
+    "reference/大学院入試/資料/2024年4月,2023年10月_選択問題.pdf",
+    "reference/大学院入試/資料/2022年4月2021年10月入学_選択科目.pdf",
+    "draft/大学院入試",
+    "about-me.md",
+    "reference/卒業研究/2026-07-17_Leap Motion統合のフレームレート最適化.md",
+    "reference/卒業研究/2026-06-23_MediaPipe鼻座標でTouchDesignerカメラ制御.md",
+    "reference/卒業研究/2026-07-07_裸眼立体映像と空間音響のインタラクションシステム.md",
+    "reference/卒業研究/2026-07-11_ロードマップの作成.md",
+    "reference/卒業研究/2026-07-12_Virtual-Showcaseプロジェクトの次フェーズ準備.md",
+    "reference/卒業研究/2026-07-15_Unityプロジェクトのバージョン不一致エラー.md",
+    "テスト.md",
+    "ようこそ.md",
+    "リンクを作成.md",
+    "reference/その他/2026-06-23_Claudeとの最初のチャット.md"
+  ]
+}
