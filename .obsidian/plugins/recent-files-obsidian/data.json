@@ -1,0 +1,16 @@
+{
+  "recentFiles": [
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "about-me",
+      "path": "about-me.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

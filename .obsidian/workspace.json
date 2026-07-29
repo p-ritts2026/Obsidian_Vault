@@ -146,10 +146,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "11c42e719a9eb8bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7484735d932b4260",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent files"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 209.5
   },
   "right": {
     "id": "96940c88541f92e6",
@@ -273,13 +289,16 @@
       "command-palette:コマンドパレットを開く": false,
       "bases:新規ベースを作成": false,
       "realclaudian:Open Claudian": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "d0521351ea44bd05",
+  "active": "d8bb46ec4b09ef56",
   "lastOpenFiles": [
-    "reference/サークル活動/2026-06-29_お笑いサークル向けネタ見せフォーム作成アプリ.md",
+    "Notes",
+    "about-me.md",
     "index.md",
+    "reference/サークル活動/2026-06-29_お笑いサークル向けネタ見せフォーム作成アプリ.md",
     "draft/サークル活動/2026-07-30_ネタ見せちゃんフォルダREADME下書き.md",
     "reference/サークル活動/2026-06-25_動画編集マニュアルの構成と進め方.md",
     "draft/サークル活動/2026-07-28_データ管理システム設計ドラフト.md",
@@ -321,9 +340,7 @@
     "reference/大学院入試/資料/202508_02_M1_des_sp.pdf",
     "reference/大学院入試/資料/202508_01_M1_des_sp.pdf",
     "reference/大学院入試/資料/2024年4月,2023年10月_選択問題.pdf",
-    "about-me.md",
     "reference/卒業研究/2026-06-23_MediaPipe鼻座標でTouchDesignerカメラ制御.md",
-    "reference/卒業研究/2026-07-07_裸眼立体映像と空間音響のインタラクションシステム.md",
-    "reference/卒業研究/2026-07-11_ロードマップの作成.md"
+    "reference/卒業研究/2026-07-07_裸眼立体映像と空間音響のインタラクションシステム.md"
   ]
 }
