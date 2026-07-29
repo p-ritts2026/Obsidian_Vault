@@ -4,8 +4,8 @@
   "title": "Continue previous work",
   "titleGenerationStatus": "success",
   "createdAt": 1785354645195,
-  "updatedAt": 1785364331185,
-  "lastResponseAt": 1785364331185,
+  "updatedAt": 1785365299073,
+  "lastResponseAt": 1785365299073,
   "sessionId": "3382e84c-a1c0-4586-ad71-db43ed3ec323",
   "selectedModel": "sonnet",
   "providerState": {
@@ -15,11 +15,11 @@
   "usage": {
     "model": "sonnet",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 5349,
-    "cacheReadInputTokens": 106924,
+    "cacheCreationInputTokens": 6740,
+    "cacheReadInputTokens": 115590,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 112275,
-    "percentage": 11
+    "contextTokens": 122332,
+    "percentage": 12
   }
 }
