@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft/サークル活動/2026-07-29_OFFICERS README下書き.md",
+                "file": "draft/サークル活動/2026-07-29_LIBRARY README下書き.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-29_OFFICERS README下書き"
+              "title": "2026-07-29_LIBRARY README下書き"
             }
           },
           {
@@ -236,9 +236,9 @@
   },
   "active": "81ab0bee47dc43cc",
   "lastOpenFiles": [
-    "draft/サークル活動/2026-07-29_LIBRARY README下書き.md",
-    "draft/サークル活動/2026-07-29_OFFICERS README下書き.md",
     "draft/サークル活動/2026-07-28_データ管理システム設計ドラフト.md",
+    "draft/サークル活動/2026-07-29_OFFICERS README下書き.md",
+    "draft/サークル活動/2026-07-29_LIBRARY README下書き.md",
     "reference/サークル活動/2026-06-25_動画編集マニュアルの構成と進め方.md",
     "reference/卒業研究/2026-07-17_Leap Motion統合のフレームレート最適化.md",
     "reference/サークル活動/2026-07-28_サークル データ管理システム構築.md",
