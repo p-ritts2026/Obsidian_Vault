@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reference/卒業研究/2026-07-17_Leap Motion統合のフレームレート最適化.md",
+                "file": "02_reference/卒業研究/2026-07-17_Leap Motion統合のフレームレート最適化.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft/サークル活動/2026-07-29_OFFICERS README下書き.md",
+                "file": "03_draft/サークル活動/2026-07-29_OFFICERS README下書き.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft/サークル活動/2026-07-29_LIBRARY README下書き.md",
+                "file": "03_draft/サークル活動/2026-07-29_LIBRARY README下書き.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,12 +78,40 @@
             }
           },
           {
+            "id": "58171c534f4addd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "5d25546b54d0b782",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_reference/サークル活動/2026-07-28_サークル データ管理システム構築.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-28_サークル データ管理システム構築"
+            }
+          },
+          {
             "id": "b5b9ec41157b0a8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft/サークル活動/2026-07-29_OFFICERS README下書き.md",
+                "file": "03_draft/サークル活動/2026-07-29_OFFICERS README下書き.md",
                 "mode": "source",
                 "source": false
               },
@@ -92,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -104,6 +132,7 @@
       {
         "id": "dd7f2d5a5de1e7ad",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "d8bb46ec4b09ef56",
@@ -150,6 +179,7 @@
       {
         "id": "11c42e719a9eb8bc",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "7484735d932b4260",
@@ -293,54 +323,53 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d8bb46ec4b09ef56",
+  "active": "5d25546b54d0b782",
   "lastOpenFiles": [
-    "Notes",
-    "about-me.md",
+    "02_reference/サークル活動/CLAUDE.md",
+    "02_reference/サークル活動/2026-07-28_サークル データ管理システム構築.md",
     "index.md",
-    "reference/サークル活動/2026-06-29_お笑いサークル向けネタ見せフォーム作成アプリ.md",
-    "draft/サークル活動/2026-07-30_ネタ見せちゃんフォルダREADME下書き.md",
-    "reference/サークル活動/2026-06-25_動画編集マニュアルの構成と進め方.md",
-    "draft/サークル活動/2026-07-28_データ管理システム設計ドラフト.md",
-    "draft/サークル活動/2026-07-29_編集フォルダREADME下書き.md",
-    "draft/サークル活動/2026-07-29_LINE告知文下書き.md",
-    "draft/サークル活動/2026-07-29_LIBRARY README下書き.md",
-    "draft/サークル活動/2026-07-29_OFFICERS README下書き.md",
+    "04_output",
+    "03_draft/サークル活動/2026-07-30_ネタ見せちゃんフォルダREADME下書き.md",
+    "02_reference/サークル活動/2026-07-11_動画編集マニュアルへの日付と注記の追加.md",
+    "02_reference/サークル活動/2026-06-29_お笑いサークル向けネタ見せフォーム作成アプリ.md",
+    "01_Notes",
+    "about-me.md",
+    "02_reference/サークル活動/2026-06-25_動画編集マニュアルの構成と進め方.md",
+    "03_draft/サークル活動/2026-07-28_データ管理システム設計ドラフト.md",
+    "03_draft/サークル活動/2026-07-29_編集フォルダREADME下書き.md",
+    "03_draft/サークル活動/2026-07-29_LINE告知文下書き.md",
+    "03_draft/サークル活動/2026-07-29_LIBRARY README下書き.md",
+    "03_draft/サークル活動/2026-07-29_OFFICERS README下書き.md",
     "CLAUDE.md",
-    "draft/サークル活動/2026-07-29_写真フォルダREADME下書き.md",
-    "reference/卒業研究/2026-07-17_Leap Motion統合のフレームレート最適化.md",
-    "reference/サークル活動/2026-07-28_サークル データ管理システム構築.md",
-    "reference/サークル活動/folder_structure 1.txt",
-    "reference/サークル活動/CLAUDE.md",
-    "reference/サークル活動/2026-07-11_動画編集マニュアルへの日付と注記の追加.md",
-    "reference/サークル活動/folder_structure.txt",
+    "03_draft/サークル活動/2026-07-29_写真フォルダREADME下書き.md",
+    "02_reference/卒業研究/2026-07-17_Leap Motion統合のフレームレート最適化.md",
+    "02_reference/サークル活動/folder_structure 1.txt",
+    "02_reference/サークル活動/folder_structure.txt",
     "2026-07-28.md",
     "無題のファイル.md",
     "無題のファイル.canvas",
-    "reference/大学院入試/2026-07-24_千葉大学大学院デザインコース入試対策資料の作成.md",
-    "reference/大学院入試/資料/単語.pdf",
-    "reference/卒業研究/CLAUDE.md",
-    "draft/大学院入試/2026-07-28_短答練習（年度B優先）.md",
-    "draft/サークル活動",
-    "reference/大学院入試/2026-07-28_千葉大学デザインコース過去問追加分（①③⑦重点）.md",
+    "02_reference/大学院入試/2026-07-24_千葉大学大学院デザインコース入試対策資料の作成.md",
+    "02_reference/大学院入試/資料/単語.pdf",
+    "02_reference/卒業研究/CLAUDE.md",
+    "03_draft/大学院入試/2026-07-28_短答練習（年度B優先）.md",
+    "03_draft/サークル活動",
+    "02_reference/大学院入試/2026-07-28_千葉大学デザインコース過去問追加分（①③⑦重点）.md",
     "reference/大学院入試/2026-07-28_千葉大学デザインコース過去問追加分（①③⑦重点）.md.tmp.3392.9d6d465d8eda",
-    "reference/大学院入試/2026-07-28_公式解答例と出題趣旨の確認（年度確定版）.md",
-    "reference/大学院入試/資料/2023年4月2022年10月入学_選択科目.pdf",
-    "reference/大学院入試/資料/36D92DC0-FF8E-405A-80B7-BEB5D61CDDBD.jpeg",
-    "reference/大学院入試/資料/341AD8A3-756B-4FBB-AFC1-293448D1D9C0.jpeg",
-    "reference/大学院入試/資料/01AFFB6D-4363-4DF7-B2DC-DEAB9FD2051D.jpeg",
-    "reference/大学院入試/資料/AC5FF9F1-2A78-4CE4-9059-4F53E308ED59.jpeg",
-    "reference/大学院入試/資料/DBC291EB-D497-4BFC-A544-A595C4D4412E.jpeg",
-    "reference/大学院入試/資料/450703F4-1216-4C3D-BE2F-FC495C179BDE.jpeg",
-    "reference/大学院入試/資料/24239378-2D7A-42F8-A14A-22A41CA3048B.jpeg",
-    "reference/大学院入試/資料/05CC9375-BAD4-4DF4-962D-F239D287FEE8.jpeg",
-    "reference/大学院入試/資料/CA5ECBBA-4729-49C9-BE3A-ADEDA6DAB9BA.jpeg",
-    "reference/大学院入試/資料/4F5D5B22-352E-4230-AD94-1C59D40615D5.jpeg",
-    "reference/大学院入試/資料/202508_03_M1_des_sp.pdf",
-    "reference/大学院入試/資料/202508_02_M1_des_sp.pdf",
-    "reference/大学院入試/資料/202508_01_M1_des_sp.pdf",
-    "reference/大学院入試/資料/2024年4月,2023年10月_選択問題.pdf",
-    "reference/卒業研究/2026-06-23_MediaPipe鼻座標でTouchDesignerカメラ制御.md",
-    "reference/卒業研究/2026-07-07_裸眼立体映像と空間音響のインタラクションシステム.md"
+    "02_reference/大学院入試/2026-07-28_公式解答例と出題趣旨の確認（年度確定版）.md",
+    "02_reference/大学院入試/資料/2023年4月2022年10月入学_選択科目.pdf",
+    "02_reference/大学院入試/資料/36D92DC0-FF8E-405A-80B7-BEB5D61CDDBD.jpeg",
+    "02_reference/大学院入試/資料/341AD8A3-756B-4FBB-AFC1-293448D1D9C0.jpeg",
+    "02_reference/大学院入試/資料/01AFFB6D-4363-4DF7-B2DC-DEAB9FD2051D.jpeg",
+    "02_reference/大学院入試/資料/AC5FF9F1-2A78-4CE4-9059-4F53E308ED59.jpeg",
+    "02_reference/大学院入試/資料/DBC291EB-D497-4BFC-A544-A595C4D4412E.jpeg",
+    "02_reference/大学院入試/資料/450703F4-1216-4C3D-BE2F-FC495C179BDE.jpeg",
+    "02_reference/大学院入試/資料/24239378-2D7A-42F8-A14A-22A41CA3048B.jpeg",
+    "02_reference/大学院入試/資料/05CC9375-BAD4-4DF4-962D-F239D287FEE8.jpeg",
+    "02_reference/大学院入試/資料/CA5ECBBA-4729-49C9-BE3A-ADEDA6DAB9BA.jpeg",
+    "02_reference/大学院入試/資料/4F5D5B22-352E-4230-AD94-1C59D40615D5.jpeg",
+    "02_reference/大学院入試/資料/202508_03_M1_des_sp.pdf",
+    "02_reference/大学院入試/資料/202508_02_M1_des_sp.pdf",
+    "02_reference/卒業研究/2026-06-23_MediaPipe鼻座標でTouchDesignerカメラ制御.md",
+    "02_reference/卒業研究/2026-07-07_裸眼立体映像と空間音響のインタラクションシステム.md"
   ]
 }
