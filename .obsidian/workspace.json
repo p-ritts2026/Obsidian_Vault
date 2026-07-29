@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_draft/サークル活動/2026-07-30_ネタ見せちゃんフォルダREADME下書き.md",
+                "file": "02_reference/サークル活動/2026-06-29_お笑いサークル向けネタ見せフォーム作成アプリ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-30_ネタ見せちゃんフォルダREADME下書き"
+              "title": "2026-06-29_お笑いサークル向けネタ見せフォーム作成アプリ"
             }
           },
           {
@@ -216,7 +216,7 @@
       {
         "id": "dd7f2d5a5de1e7ad",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 63.030303030303024,
         "children": [
           {
             "id": "d8bb46ec4b09ef56",
@@ -263,7 +263,7 @@
       {
         "id": "11c42e719a9eb8bc",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 36.96969696969697,
         "children": [
           {
             "id": "7484735d932b4260",
@@ -407,15 +407,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2ac9b1b2081e399c",
+  "active": "fe2bdce614aaeac0",
   "lastOpenFiles": [
+    "02_reference/サークル活動/ネタ見せちゃんフォーム作成アプリ_構成まとめ.md",
+    "S__41312262.jpg",
+    "03_draft/サークル活動/2026-07-30_ネタ見せちゃんフォルダREADME下書き.md",
+    "02_reference/サークル活動/2026-06-29_お笑いサークル向けネタ見せフォーム作成アプリ.md",
     "03_draft/サークル活動/2026-07-28_データ管理システム設計ドラフト.md",
     "03_draft/サークル活動/2026-07-29_LIBRARY README下書き.md",
     "03_draft/サークル活動/2026-07-29_編集フォルダREADME下書き.md",
-    "03_draft/サークル活動/2026-07-30_ネタ見せちゃんフォルダREADME下書き.md",
     "02_reference/サークル活動/2026-07-28_サークル データ管理システム構築.md",
     "02_reference/サークル活動/2026-06-25_動画編集マニュアルの構成と進め方.md",
-    "02_reference/サークル活動/2026-06-29_お笑いサークル向けネタ見せフォーム作成アプリ.md",
     "02_reference/サークル活動/2026-07-11_動画編集マニュアルへの日付と注記の追加.md",
     "02_reference/サークル活動/CLAUDE.md",
     "index.md",
@@ -450,7 +452,6 @@
     "02_reference/大学院入試/資料/24239378-2D7A-42F8-A14A-22A41CA3048B.jpeg",
     "02_reference/大学院入試/資料/05CC9375-BAD4-4DF4-962D-F239D287FEE8.jpeg",
     "02_reference/大学院入試/資料/CA5ECBBA-4729-49C9-BE3A-ADEDA6DAB9BA.jpeg",
-    "02_reference/大学院入試/資料/4F5D5B22-352E-4230-AD94-1C59D40615D5.jpeg",
     "02_reference/大学院入試/資料/202508_03_M1_des_sp.pdf",
     "02_reference/大学院入試/資料/202508_02_M1_des_sp.pdf",
     "02_reference/卒業研究/2026-06-23_MediaPipe鼻座標でTouchDesignerカメラ制御.md",

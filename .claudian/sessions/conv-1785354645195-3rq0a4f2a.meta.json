@@ -1,0 +1,25 @@
+{
+  "id": "conv-1785354645195-3rq0a4f2a",
+  "providerId": "claude",
+  "title": "Continue previous work",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785354645195,
+  "updatedAt": 1785364331185,
+  "lastResponseAt": 1785364331185,
+  "sessionId": "3382e84c-a1c0-4586-ad71-db43ed3ec323",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "3382e84c-a1c0-4586-ad71-db43ed3ec323"
+  },
+  "currentNote": "02_reference/サークル活動/2026-06-29_お笑いサークル向けネタ見せフォーム作成アプリ.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 5349,
+    "cacheReadInputTokens": 106924,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 112275,
+    "percentage": 11
+  }
+}
