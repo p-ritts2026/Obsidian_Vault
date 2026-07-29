@@ -27,12 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft/サークル活動/2026-07-29_写真フォルダREADME下書き.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-29_写真フォルダREADME下書き"
+              "title": "CLAUDE"
+            }
+          },
+          {
+            "id": "9834468cf5c195f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "draft/サークル活動/2026-07-29_OFFICERS README下書き.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-29_OFFICERS README下書き"
+            }
+          },
+          {
+            "id": "608ff1eee517207b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "draft/サークル活動/2026-07-29_LIBRARY README下書き.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-29_LIBRARY README下書き"
             }
           },
           {
@@ -50,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -234,13 +262,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81ab0bee47dc43cc",
+  "active": "fe2bdce614aaeac0",
   "lastOpenFiles": [
+    "draft/サークル活動/2026-07-29_LINE告知文下書き.md",
+    "draft/サークル活動/2026-07-29_OFFICERS README下書き.md",
+    "CLAUDE.md",
+    "draft/サークル活動/2026-07-28_データ管理システム設計ドラフト.md",
+    "draft/サークル活動/2026-07-29_写真フォルダREADME下書き.md",
     "draft/サークル活動/2026-07-29_編集フォルダREADME下書き.md",
     "draft/サークル活動/2026-07-29_LIBRARY README下書き.md",
-    "draft/サークル活動/2026-07-29_写真フォルダREADME下書き.md",
-    "draft/サークル活動/2026-07-28_データ管理システム設計ドラフト.md",
-    "draft/サークル活動/2026-07-29_OFFICERS README下書き.md",
     "reference/サークル活動/2026-06-25_動画編集マニュアルの構成と進め方.md",
     "reference/卒業研究/2026-07-17_Leap Motion統合のフレームレート最適化.md",
     "reference/サークル活動/2026-07-28_サークル データ管理システム構築.md",
@@ -260,7 +290,6 @@
     "reference/大学院入試/2026-07-28_千葉大学デザインコース過去問追加分（①③⑦重点）.md",
     "reference/大学院入試/2026-07-28_千葉大学デザインコース過去問追加分（①③⑦重点）.md.tmp.3392.9d6d465d8eda",
     "reference/大学院入試/2026-07-28_公式解答例と出題趣旨の確認（年度確定版）.md",
-    "CLAUDE.md",
     "reference/大学院入試/資料/2023年4月2022年10月入学_選択科目.pdf",
     "reference/大学院入試/資料/36D92DC0-FF8E-405A-80B7-BEB5D61CDDBD.jpeg",
     "reference/大学院入試/資料/341AD8A3-756B-4FBB-AFC1-293448D1D9C0.jpeg",
@@ -281,7 +310,6 @@
     "reference/卒業研究/2026-07-07_裸眼立体映像と空間音響のインタラクションシステム.md",
     "reference/卒業研究/2026-07-11_ロードマップの作成.md",
     "reference/卒業研究/2026-07-12_Virtual-Showcaseプロジェクトの次フェーズ準備.md",
-    "reference/卒業研究/2026-07-15_Unityプロジェクトのバージョン不一致エラー.md",
-    "テスト.md"
+    "reference/卒業研究/2026-07-15_Unityプロジェクトのバージョン不一致エラー.md"
   ]
 }
