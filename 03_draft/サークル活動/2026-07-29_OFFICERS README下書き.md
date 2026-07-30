@@ -8,6 +8,8 @@
 
 ファイル名の案：`README_役員はじめにお読みください`
 
+> ⚠️ **Claudeより**：Google Workspace（共有ドライブ）への移行を検討中です（企画書：[[draft/サークル活動/2026-07-30_Google Workspace導入企画書.md]]）。承認後は、Workspace管理者アカウント・独自ドメインの管理方法がこのREADMEに追加される予定です。
+
 ---
 
 # 📌 P-RITTS_OFFICERS 利用ガイド（役員限定）

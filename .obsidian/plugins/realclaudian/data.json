@@ -2,7 +2,6 @@
   "tabManagerState": {
     "openTabs": [
       {
-        "draftModel": "sonnet",
         "tabId": "tab-1785177873180-8nxynuc",
         "conversationId": "conv-1785354645195-3rq0a4f2a"
       },
@@ -15,6 +14,6 @@
         "conversationId": "conv-1785344709600-8y3emon0i"
       }
     ],
-    "activeTabId": "tab-1785177873180-8nxynuc"
+    "activeTabId": "tab-1785179945965-v4p7goa"
   }
 }
