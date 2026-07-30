@@ -244,6 +244,34 @@
             }
           },
           {
+            "id": "c4b0f5d610ce0419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_draft/サークル活動/2026-07-30_Google Workspace導入企画書.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-30_Google Workspace導入企画書"
+            }
+          },
+          {
+            "id": "3e735cbe546efaa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_draft/サークル活動/2026-07-30_サークルデータ管理システム企画書.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-30_サークルデータ管理システム企画書"
+            }
+          },
+          {
             "id": "b5b9ec41157b0a8f",
             "type": "leaf",
             "state": {
@@ -258,7 +286,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -461,12 +489,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9404fe7532609a25",
+  "active": "3e735cbe546efaa7",
   "lastOpenFiles": [
+    "03_draft/サークル活動/2026-07-30_Google Workspace導入企画書.md",
+    "03_draft/サークル活動/2026-07-30_サークルデータ管理システム企画書.md",
     "02_reference/大学院入試/資料/202508_03_M1_des_sp.pdf",
     "02_reference/大学院入試/資料/202508_02_M1_des_sp.pdf",
     "03_draft/サークル活動/2026-07-29_写真フォルダREADME下書き.md.tmp.32976.10d2f64efbb4",
-    "03_draft/サークル活動/2026-07-30_Google Workspace導入企画書.md",
     "03_draft/大学院入試/2026-07-28_短答練習（年度B優先）.md",
     "02_reference/大学院入試/2026-07-28_千葉大学デザインコース過去問追加分（①③⑦重点）.md",
     "02_reference/大学院入試/2026-07-28_公式解答例と出題趣旨の確認（年度確定版）.md",
@@ -500,7 +529,6 @@
     "02_reference/大学院入試/資料/単語.pdf",
     "03_draft/サークル活動",
     "reference/大学院入試/2026-07-28_千葉大学デザインコース過去問追加分（①③⑦重点）.md.tmp.3392.9d6d465d8eda",
-    "02_reference/大学院入試/資料/2023年4月2022年10月入学_選択科目.pdf",
     "02_reference/大学院入試/資料/36D92DC0-FF8E-405A-80B7-BEB5D61CDDBD.jpeg",
     "02_reference/大学院入試/資料/341AD8A3-756B-4FBB-AFC1-293448D1D9C0.jpeg",
     "02_reference/大学院入試/資料/01AFFB6D-4363-4DF7-B2DC-DEAB9FD2051D.jpeg",
