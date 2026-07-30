@@ -6,10 +6,12 @@
   "createdAt": 1785354645195,
   "updatedAt": 1785368320719,
   "lastResponseAt": 1785368320719,
-  "sessionId": "3382e84c-a1c0-4586-ad71-db43ed3ec323",
+  "sessionId": null,
   "selectedModel": "sonnet",
   "providerState": {
-    "providerSessionId": "3382e84c-a1c0-4586-ad71-db43ed3ec323"
+    "previousProviderSessionIds": [
+      "3382e84c-a1c0-4586-ad71-db43ed3ec323"
+    ]
   },
   "currentNote": "02_reference/サークル活動/2026-06-29_お笑いサークル向けネタ見せフォーム作成アプリ.md",
   "usage": {
